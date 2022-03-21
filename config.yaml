@@ -1,0 +1,6 @@
+#天河sso
+sso:
+  url: https://api-tianhe.yunxuetang.com.cn/v2/oauth/
+  clientId: application-center-ceb
+  ak: j9R5r7q6
+  sk: j9R5r7q6R7e8r3d7n7B4m3X6K7A4v9P9
